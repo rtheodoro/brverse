@@ -10,8 +10,9 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [deflateBR](https://github.com/meirelesff/deflatebr/): Deflate Nominal Brazilian Reais
 - [siconvr](https://CRAN.R-project.org/package=siconvr): Fetch Data from Plataforma +Brasil (SICONV)
 - [BacenAPI](https://CRAN.R-project.org/package=BacenAPI): Data Collection from the Central Bank of Brazil
-- [rbcb](https://wilsonfreitas.github.io/rbcb/): R Interface to Brazilian Central Bank Web Services
-- [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
+- [rbcb](https://cran.r-project.org/web/packages/rbcb/index.html): R Interface to Brazilian Central Bank Web Services
+- [bacenR](https://cran.r-project.org/web/packages/bacenR/index.html): Get IFdata, Active Institutions, Balance Sheets and Normative Acts
+- [GetTDData](https://cran.r-project.org/web/packages/GetTDData/index.html): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
   
